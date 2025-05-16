@@ -24,18 +24,19 @@
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
 	<array>
+<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.388298698922-gftnl5f973cm8jufpkaqgu0p3dkamvno</string>
+			</array>
+		</dict>
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>qatratkheir</string>
 			</array>
 		</dict>
-		<dict>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>com.googleusercontent.apps.388298698922-gftnl5f973cm8jufpkaqgu0p3dkamvno</string>
-			</array>
-		</dict>
+		
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
